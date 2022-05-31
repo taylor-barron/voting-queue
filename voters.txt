@@ -1,0 +1,13 @@
+Date: 09-04-2022 10:18:59
+
+VOTER REPORT
+
+Voter #         Voting Time
+    1               465
+    2                62
+    3               178
+
+Number of voters processed: 3
+Total time to vote: 705
+Average time to vote: 235
+Number of voters left in queue: 0
